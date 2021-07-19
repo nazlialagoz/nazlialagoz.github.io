@@ -5,12 +5,83 @@
     <link>https://nazlialagoz.github.io/</link>
       <atom:link href="https://nazlialagoz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nazlı M. Alagöz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 12:09:14 +0300</lastBuildDate>
     <image>
       <url>https://nazlialagoz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Nazlı M. Alagöz</title>
       <link>https://nazlialagoz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Useful Resources</title>
+      <link>https://nazlialagoz.github.io/post/2021-07-19-useful-resources/</link>
+      <pubDate>Mon, 19 Jul 2021 12:09:14 +0300</pubDate>
+      <guid>https://nazlialagoz.github.io/post/2021-07-19-useful-resources/</guid>
+      <description>&lt;h3 id=&#34;on-searching-for-instrumental-variables&#34;&gt;On searching for instrumental variables:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://economics.mit.edu/files/18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instrumental Variables and the Search for Identification: From Supply and Demand to Natural Experiments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;job-market--phd-process&#34;&gt;Job market &amp;amp; PhD process&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ericzwick.com/public_goods/love_the_market.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How I Learned to Stop Worrying and Love the Job Market - Eric Zwick&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ericzwick.com/public_goods/twelve_steps.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 12 Step Program for Grad School - Eric Zwick&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.jstor.org/stable/26160563?seq=1#metadata_info_tab_contents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Learn to Stop Worrying and Love the Job Market
+Sarah Jacobson&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-guides&#34;&gt;Other Guides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ericzwick.com/public_goods/1000_citations.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Graph is Worth a Thousand Citations - Eric Zwick&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;book-suggestions&#34;&gt;Book Suggestions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lean Startup - Eric Ries
+Treat your PhD process like a startup and decrease frustrations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algorithms to Live By - Brian Christian and Tom Griffiths
+Effective methods to apply when making decisions and trying to achieve something
+I especially found Chapters 2 (Explore/Exploit: The Latest vs. Greatest) and 7 (Overfitting: When to Think Less) useful, especially for PhD process and your 20s.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thinking in Bets - Annie Duke
+Along the same lines as the book above.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scrum: The Art of Doing Twice the Work in Half the Time
+Book by J. J. Sutherland
+Make your work visible, keep track of things and avoid frustrations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning for Coders with Fastai and PyTorch - Jeremy Howard and Sylvain Gugger
+Accessible guide to Machine Learning with Python. 
+&lt;a href=&#34;https://course.fast.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;They also have a related web lectures here&lt;/a&gt;. After you get the basics with this book and Andrew Ng&amp;rsquo;s coursera course you can check out ML for economics 
+&lt;a href=&#34;https://www.aeaweb.org/conference/cont-ed/2018-webcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Road from Coorain - Jill Ker Conway&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Behave -  Robert Sapolsky
+A biological perspective on human behavior and emotions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Selfish Gene - Richard Dawkins&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
