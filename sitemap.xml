@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nazlialagoz.com/about/</loc>
+    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nazlialagoz.com/authors/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -125,17 +128,7 @@
     <loc>https://nazlialagoz.com/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>https://nazlialagoz.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nazlialagoz.com/about.pt-br/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nazlialagoz.com/contact/</loc>
-  </url><url>
-    <loc>https://nazlialagoz.com/contact/</loc>
-  </url><url>
-    <loc>https://nazlialagoz.com/projects/</loc>
   </url><url>
     <loc>https://nazlialagoz.com/projects/</loc>
   </url>
